@@ -3,7 +3,7 @@
 https://claude.ai/share/740bd179-af2a-4f73-809b-85f712f389d2
 
 
-## Caso nã consiga acessar, segue a conversa copiada:
+## Caso não consiga acessar, segue a conversa copiada:
 
 Claude
 Teste Técnico - Python.zip
