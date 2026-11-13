@@ -57,7 +57,7 @@ Esperado na amostra: 12 reservas, 9 confirmadas, 2 canceladas, 1 no-show, 28 noi
 
 
 
-## Documentação original em escrita em Java
+## ***Documentação original em escrita em Java***
 ## Defeitos corrigidos
 - [1. StayCalculator.calculateRoomNights()]
 - [2. CurrencyConverter.convertToBrl()]
