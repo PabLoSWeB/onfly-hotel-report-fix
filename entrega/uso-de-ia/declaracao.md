@@ -14,7 +14,6 @@
 
 **Ferramenta: Leo AI (Brave) Modelo: Qwen 3.6 35B**
 
-[
 1. Investigação de Erros de Lógica e Cálculo
 A IA Leo me ajudou a interpretar erros específicos e a correlacioná-los com o código-fonte.
 
@@ -34,4 +33,4 @@ A IA Leo me ajudou a interpretar erros específicos e a correlacioná-los com o 
 
 ## Sessão
 
-A exportação da conversa está em `sessao.md` (ou `sessao-01.md`, `sessao-02.md`...) nesta pasta.
+A exportação da conversa está em `sessao.md` nesta pasta.
